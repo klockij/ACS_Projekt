@@ -1,0 +1,6 @@
+c:\users\macie\onedrive\documents\visual studio 2015\Projects\ACS_Projekt\ACS_Projekt\bin\Debug\ACS_Projekt.exe.config
+c:\users\macie\onedrive\documents\visual studio 2015\Projects\ACS_Projekt\ACS_Projekt\obj\Debug\ACS_Projekt.csprojResolveAssemblyReference.cache
+c:\users\macie\onedrive\documents\visual studio 2015\Projects\ACS_Projekt\ACS_Projekt\bin\Debug\ACS_Projekt.exe
+c:\users\macie\onedrive\documents\visual studio 2015\Projects\ACS_Projekt\ACS_Projekt\bin\Debug\ACS_Projekt.pdb
+c:\users\macie\onedrive\documents\visual studio 2015\Projects\ACS_Projekt\ACS_Projekt\obj\Debug\ACS_Projekt.exe
+c:\users\macie\onedrive\documents\visual studio 2015\Projects\ACS_Projekt\ACS_Projekt\obj\Debug\ACS_Projekt.pdb
