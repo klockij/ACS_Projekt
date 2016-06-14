@@ -1,0 +1,1 @@
+Program oblicza pola i obwody figur foremnych i ko³a o wprowadzonej d³ugoœci boku lub promieniu. Po uruchomieniu programu, po wprowadzeniu ka¿dej opcji listowane kontekstowe podpowiedzi.
